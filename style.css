@@ -1,3 +1,17 @@
+/* Gaya untuk layar kecil (misalnya, ponsel) */
+@media only screen and (max-width: 600px) {
+  /* Atur gaya elemen untuk layar kecil di sini */
+}
+
+/* Gaya untuk layar menengah (misalnya, tablet) */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  /* Atur gaya elemen untuk layar menengah di sini */
+}
+
+/* Gaya untuk layar besar (misalnya, desktop) */
+@media only screen and (min-width: 1025px) {
+  /* Atur gaya elemen untuk layar besar di sini */
+}
 
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap');
 *
