@@ -26,11 +26,11 @@ body {
 }
 .countainer
 {
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
     position: absolute;
-    top: 80px;
-    left: 100px;
-    right: 100px;
-    bottom: 80px;
     background: rgba(28, 27, 27, 0.43);
     background-attachment: fixed;
     display: flex;
